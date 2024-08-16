@@ -1,3 +1,6 @@
+# NOTICE: This got superseded by [HTC-One-X-Torpedo](https://github.com/IonAgorria/HTC-One-X-Torpedo) exploit that is easier to use and more universal.
+> This repo is kept archived for historical reasons and is no longer recomended to use.
+
 # HTC One X - Depth Charge HBoot exploit
 
 HBoot Exploit implementation for Tegra 3 variant of HTC One X (not X+, but is probably vulnerable too).
